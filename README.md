@@ -4,7 +4,7 @@
 # DIP Phase 2 Project: Melanoma Detection & Lesion Segmentation
 
 ## SUBMITTED BY: Anab Kazmi
-## ROLL NO: 2023-SE-02
+## ROLL NO: 2023-SE-06
 
 ## 📋 Project Overview
 
